@@ -1,4 +1,4 @@
-@ST_3613
+@ST_33
 Feature: Given in only one scenariolfff
 Check Background without given keywordjheeeeeee
 
@@ -7,85 +7,85 @@ this is new descr
 Given asdffff
 And and and
 
-@SC_1549 @perf_tag_128 @perf_tag_438
+@SC_195 @perf_tag_128 @perf_tag_438
 Scenario: perf_scenario_633
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1550 @new-tags-sc
+@SC_196 @new-tags-sc
 Scenario: 
 eeeeeees
 Given asdrrrrrrrr
 And kjsdfhk
 
-@SC_1551
+@SC_197
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_1552
+@SC_198
 Scenario: 
 Given asd
 And kjsdfhk Asddff
 
-@SC_1553
+@SC_199
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_1554
+@SC_200
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_1555 @Critical @Test_1
+@SC_201 @Critical @Test_1
 Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@SC_1556 @Medium @Test_2
+@SC_202 @Medium @Test_2
 Scenario: Check another scenario
 When this scenario started without given keyword
 Then gherkin parser must return error
 
-@SC_1557 @perf_tag_38 @perf_tag_422
+@SC_203 @perf_tag_38 @perf_tag_422
 Scenario: perf_scenario_430
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1558 @perf_tag_8 @perf_tag_834
+@SC_204 @perf_tag_8 @perf_tag_834
 Scenario: perf_scenario_339
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1559 @perf_tag_533 @perf_tag_322
+@SC_205 @perf_tag_533 @perf_tag_322
 Scenario: perf_scenario_597
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1560 @perf_tag_194 @perf_tag_602
+@SC_206 @perf_tag_194 @perf_tag_602
 Scenario: perf_scenario_423
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1561 @perf_tag_805 @perf_tag_844
+@SC_207 @perf_tag_805 @perf_tag_844
 Scenario: perf_scenario_986
 PerfSample
 Given sample string 1
 When sample string 1
 Then sample string 2
 
-@SC_1562 @perf_tag_758 @perf_tag_783
+@SC_208 @perf_tag_758 @perf_tag_783
 Scenario: perf_scenario_612
 PerfSample
 Given sample string 1
